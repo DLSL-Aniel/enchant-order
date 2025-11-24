@@ -117,6 +117,10 @@
         "vanishing_curse": "Curse of Vanishing",
         "density": "Density",
         "breach": "Breach",
-        "wind_burst": "Wind Burst"
+        "wind_burst": "Wind Burst",
+
+        
+        "veinmine": "Veinmine",
+        "timberstrike": "Timberstrike"
     }
 }
