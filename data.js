@@ -260,6 +260,18 @@ var data = {
             weight: "2",
             incompatible: [],
             items: ["mace"]
+        },
+        veinmine: {
+            levelMax: "1",
+            weight: "7",
+            incompatible: [],
+            items: ["pickaxe"]
+        },
+        timberstrike: {
+            levelMax: "1",
+            weight: "8",
+            incompatible: [],
+            items: ["axe"]
         }
     },
     items: [
