@@ -263,13 +263,13 @@ var data = {
         },
         veinmine: {
             levelMax: "1",
-            weight: "7",
+            weight: "3",
             incompatible: [],
             items: ["pickaxe"]
         },
         timberstrike: {
             levelMax: "1",
-            weight: "8",
+            weight: "4",
             incompatible: [],
             items: ["axe"]
         }
